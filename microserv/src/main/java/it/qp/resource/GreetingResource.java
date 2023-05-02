@@ -1,4 +1,4 @@
-package it.qp;
+package it.qp.resource;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
